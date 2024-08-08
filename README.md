@@ -2,7 +2,7 @@
 
 ###I am junior frontend-developer
 
-Skills: JS / REACT / TS / HTML5 / CSS3 / Sass/ Redux /Git
+Skills: JS / REACT / TS / HTML5 / CSS3 / Sass/ Redux Toolkit /Git
 
 🌱 I’m currently learning React, Redux and Typescript
 
