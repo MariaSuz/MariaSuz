@@ -8,7 +8,7 @@ Skills: JS / REACT / TS / HTML5 / CSS3 / Sass/ Redux Toolkit /Git
 
 My projects: 
 
-- [Shelter] (https://mariasuz.github.io/Shelter/shelter/index.html) (Landing, html, scss, js)
+- [Shelter](https://mariasuz.github.io/Shelter/shelter/index.html)(Landing, html, scss, js)
 - [Coffe-house](https://mariasuz.github.io/coffee-house/) (Landing, html, scss, js)
 - [IT-samurai](https://github.com/MariaSuz/social_network/tree/main)  (SPA, html, scss, js, API, React)
 
