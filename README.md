@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Mariia
 
-###I am Frontend Developer
+### I am Frontend Developer
 
 🌱 I’m currently learning React and Typescript
 
