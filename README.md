@@ -3,14 +3,16 @@
 ###I am Frontend Developer
 
 🌱 I’m currently learning React and Typescript
+
 🌍  I speak English and Russian
+
 💌  Get touch with me: [Telegram](https://t.me/mary_sleep)
 
 My projects: 
 
 - [Shelter](https://github.com/MariaSuz/Shelter)(Landing, HTML, Sass, JS)
-- [Sing-up](https://github.com/MariaSuz/sing-up/tree/main) (Landing, HTML, Sass, JS)
-- [IT-samurai](https://github.com/MariaSuz/react-samurai-project)  (SPA, HTML, Sass, TS, API, React, Redux)
+- [Sing-up](https://github.com/MariaSuz/sing-up/tree/main)(Landing, HTML, Sass, JS)
+- [IT-samurai](https://github.com/MariaSuz/react-samurai-project)(SPA, HTML, Sass, TS, API, React, Redux)
 
 
 ### My tech stack
