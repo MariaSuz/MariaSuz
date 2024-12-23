@@ -2,21 +2,16 @@
 
 ###I am Frontend Developer
 
-Skills: JS / REACT / TS / HTML5 / CSS3 / Sass/ Redux Toolkit /Git
-
 🌱 I’m currently learning React and Typescript
 🌍  I speak English and Russian
 💌  Get touch with me: [Telegram](https://t.me/mary_sleep)
 
 My projects: 
 
-- [Shelter](https://mariasuz.github.io/Shelter/shelter/index.html)(Landing, html, scss, js)
-- [Coffe-house](https://mariasuz.github.io/coffee-house/) (Landing, html, scss, js)
-- [IT-samurai](https://github.com/MariaSuz/social_network/tree/main)  (SPA, html, scss, js, API, React)
+- [Shelter](https://github.com/MariaSuz/Shelter)(Landing, HTML, Sass, JS)
+- [Sing-up](https://github.com/MariaSuz/sing-up/tree/main) (Landing, HTML, Sass, JS)
+- [IT-samurai](https://github.com/MariaSuz/react-samurai-project)  (SPA, HTML, Sass, TS, API, React, Redux)
 
-### Codewars:
-
-[![Profile badge](https://www.codewars.com/users/Sleep_777/badges/large)](https://www.codewars.com/users/Sleep_777)
 
 ### My tech stack
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" height="27"/> 
@@ -34,4 +29,6 @@ My projects:
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg" height="27"/> 
 
 
+### Codewars:
+[![Profile badge](https://www.codewars.com/users/Sleep_777/badges/large)](https://www.codewars.com/users/Sleep_777)
 
