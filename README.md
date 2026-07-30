@@ -18,9 +18,10 @@
 - CSS3
 - Scss
 - Node + express
+- NestJS
 
 ## 🍉 Projects
-- [Phonebook](https://github.com/MariaSuz/Phonebook)(SPA, HTML, Sass, TS, API, Vue, Pinia, Vuetify, Node + express)
+- [Phonebook](https://github.com/MariaSuz/Phonebook) (SPA, HTML, Sass, TS, API, Vue, Pinia, Vuetify, NestJS)
 
 ## 📩 Contact me
 - [Telegram](https://t.me/mary_sleep)
